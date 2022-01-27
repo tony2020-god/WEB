@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/ropepack/RoleConfirm_ropepack.fire",orientation:"portrait",jsList:[],bundleVers:{internal:"01588",main:"1a6f3"}};
