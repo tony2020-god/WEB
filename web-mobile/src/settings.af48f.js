@@ -1,1 +1,0 @@
-window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/3_whack_a_mole/RoleConfirm_whack_mole.fire",orientation:"",jsList:[],bundleVers:{internal:"01588",resources:"11d3b",main:"84440"}};
