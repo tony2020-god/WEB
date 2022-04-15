@@ -1,1 +1,0 @@
-window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/2_Draw_Numbers/Draw_Numbers.fire",orientation:"",jsList:[],bundleVers:{internal:"01588",main:"14ba7"}};
