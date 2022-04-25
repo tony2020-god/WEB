@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/5_lottery/RoleConfirm_lottery.fire",orientation:"",jsList:[],bundleVers:{internal:"efe26",resources:"11d3b",main:"fb57c"}};
