@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
 
-  <title>Cocos Creator | SSS</title>
+  <title>Cocos Creator | Custom_Room</title>
 
   <!--http://www.html5rocks.com/en/mobile/mobifying/-->
   <meta name="viewport"
@@ -48,9 +48,9 @@
     </div>
   </div>
 
-<script src="src/settings.70122.js" charset="utf-8"></script>
-<script src="vconsole.min.bac6b.js"></script>
-<script src="main.0ff5f.js" charset="utf-8"></script>
+<script src="src/settings.a030a.js" charset="utf-8"></script>
+
+<script src="main.cded9.js" charset="utf-8"></script>
 
 <script type="text/javascript">
 (function () {
@@ -76,9 +76,9 @@
       document.body.appendChild(domScript);
     }
 
-    loadScript(debug ? 'cocos2d-js.js' : 'cocos2d-js-min.0e56c.js', function () {
+    loadScript(debug ? 'cocos2d-js.js' : 'cocos2d-js-min.af8c2.js', function () {
       if (CC_PHYSICS_BUILTIN || CC_PHYSICS_CANNON) {
-        loadScript(debug ? 'physics.js' : 'physics-min.30c61.js', window.boot);
+        loadScript(debug ? 'physics.js' : 'physics-min.js', window.boot);
       }
       else {
         window.boot();
